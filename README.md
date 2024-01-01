@@ -1,9 +1,9 @@
-- 👋 Hi, My Names are Ibharokhonre Osemudiahen Justice Miracle
-- 👀 I’m interested in Software Development
+- 👋 Hi, My Name is Miracle Justice
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front end devlopment
 - 💞️ I’m looking to collaborate on E-commerce websites
-- 📫 How to reach me miracleosemudiahen@gmail.com
-- 📞 +2349070420643
+- 📫 How to reach me miracleosemudiahen@hotmail.com
+- 📞 +2349039517466
 <!---
 
 --->
